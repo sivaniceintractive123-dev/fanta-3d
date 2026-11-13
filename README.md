@@ -129,5 +129,5 @@ npm start
 
 ## Author
 
-تم تطوير المشروع بواسطة **Ibrahim Ashraf** ❤️  
-[GitHub](https://github.com/Ibrahim-Ashraf-Saber)
+Developed with ❤️ By **Siva - As**  
+[GitHub](https://github.com/sivaniceintractive123-dev)

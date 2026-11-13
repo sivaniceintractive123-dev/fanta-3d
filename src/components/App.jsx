@@ -107,7 +107,7 @@ export default function App() {
       <Section2 />
       <Section3 />
       <p className="p-3 font-bold text-center text-white bg-red-950">
-        Made With ❤️ By <sapn className="text-yellow-500">Ibrahim Ashraf</sapn>
+        Made With ❤️ By <span className="text-yellow-500">Siva - As</span>
       </p>
     </div>
   );
